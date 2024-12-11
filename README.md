@@ -35,9 +35,9 @@ Ensure you have the following installed:
 
 ## Usage 
 1. Run the script:
-   ```bash
-python knn_iris_classifier.py
-   ```
+    ```bash
+    python knn_iris_classifier.py
+    ```
 3. Enter the number of neighbors(`k`) when prompted.
 4. View the model's accuracy and balanced accuracy in the console
 4.Input `sepal.length` and `petal.length` in the format `value1,value2` to predict the iris species
